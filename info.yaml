@@ -2,7 +2,7 @@
 project:
   wokwi_id:     481503369094792193      # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "SPU"      # Project title
-  author:       "Equipo 3"      # Your name
+  author:       "Equipo_3"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Contador Binario Digital"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
